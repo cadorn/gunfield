@@ -8,7 +8,7 @@ A **Gunfield** is a [gun](https://github.com/amark/gun) [Mesh](https://github.co
   * States:
     * **0** - *Zero* - The mesh is at rest with all **Policed** [Graphs](https://github.com/amark/gun/wiki/Glossary)
        persisted to **Eternal Static Storage**.
-      * **Policed Graphs** are graphs with change and replication controls established and actively monitored.
+      * **Policed Graphs** are *Graphs* with change and replication controls established and actively monitored.
       * **Eternal Static Storage** means data, network and storage must allow for and be modeled to withstand eternal
         growth over the expected lifetime of the *Mesh*.
     * **1** - *Living* - One or more *Policed Graphs* are inconsistent.
