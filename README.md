@@ -6,7 +6,7 @@ Gunfield
 A **Gunfield** is a [gun](https://github.com/amark/gun) [Mesh](https://github.com/amark/gun/wiki/Glossary) with the following properties:
 
   * States:
-    * **0** - *Zero* - The mesh is at rest with all **Policed [Graphs](https://github.com/amark/gun/wiki/Glossary)**
+    * **0** - *Frozen* - The mesh is at rest with all **Policed [Graphs](https://github.com/amark/gun/wiki/Glossary)**
        persisted to **Eternal Static Storage**.
       * **Policed Graphs** are *Graphs* with change and replication controls established and actively monitored.
       * **Eternal Static Storage** means data, network and storage must allow for and be modeled to withstand eternal
