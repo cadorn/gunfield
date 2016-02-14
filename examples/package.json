@@ -1,0 +1,7 @@
+{
+  "name": "gunfield-examples",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  }
+}
