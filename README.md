@@ -35,6 +35,13 @@ API
 *TODO*
 
 
+Notes
+=====
+
+  * A *Gunfield* fills all available nodes with all available data according to distribution rules.
+  * A *Gunfield Access Proof* gives you access to read a *Gunfield* and write back to it.
+
+
 Provenance
 ==========
 
